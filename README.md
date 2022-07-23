@@ -26,8 +26,7 @@
 [Income Prediction](https://github.com/5ury4pr454th/50k-salary-predict)
 
 ### ongoing
-[Building Scene Classification](https://github.com/5ury4pr454th/building-scene-classification)
-
+[Building Scene Classification using Street View Imagery](https://github.com/5ury4pr454th/building-scene-classification)
 ### self-learn
 [List of All DL projects](https://github.com/5ury4pr454th/my-dl-notebooks)
 
