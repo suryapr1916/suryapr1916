@@ -1,6 +1,9 @@
 # suryaprasath
 
 ### coursework
+
+[Computer Vision - Assignments and Solutions](https://github.com/5ury4pr454th/computer-vision-notebooks)
+
 [Foundations of Modern Machine Learning - Lab Solutions](https://github.com/5ury4pr454th/fmml-labs)
 
 [Foundations of Modern Machine Learning - Module 8 Project](https://github.com/5ury4pr454th/FMML-2021-main)
@@ -16,6 +19,8 @@
 [Data Science and Machine Learning - Final Project](https://github.com/5ury4pr454th/dsml-project)
 
 [EECS Labwork - Final Project](https://github.com/5ury4pr454th/Semantic-Detection-with-GloVe)
+
+[Reinforcment Learning - Assignments and Solutions](https://github.com/5ury4pr454th/reinforcement-learning-notebooks)
 
 ### on hiatus
 [Income Prediction](https://github.com/5ury4pr454th/50k-salary-predict)
