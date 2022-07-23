@@ -1,5 +1,4 @@
 # suryaprasath
-profile
 
 ### coursework
 [Foundations of Modern Machine Learning - Lab Solutions](https://github.com/5ury4pr454th/fmml-labs)
