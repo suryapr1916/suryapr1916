@@ -26,9 +26,3 @@
 [Foundations of Modern Machine Learning - Main](https://github.com/5ury4pr454th/fmml2021)
 
 [Reinforcment Learning - Assignments and Solutions](https://github.com/5ury4pr454th/reinforcement-learning-notebooks)
-
-[List of All DL projects](https://github.com/5ury4pr454th/my-dl-notebooks)
-
-[Random Old Notebooks](https://github.com/5ury4pr454th/old_notebooks)
-
-[Code Snippets for CV/DL](https://github.com/5ury4pr454th/useful-codes)
