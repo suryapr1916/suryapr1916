@@ -1,6 +1,19 @@
 # suryaprasath
 
-### coursework
+[VTOL (PID)](https://github.com/5ury4pr454th/vtol)
+
+[VTOL v2 (Obs)](https://github.com/5ury4pr454th/vtol-v2)
+
+[Income Prediction](https://github.com/5ury4pr454th/dsml-project)
+
+[Semantic Detection with GloVe](https://github.com/5ury4pr454th/Semantic-Detection-with-GloVe)
+
+[Building Scene Classification using Street View Imagery](https://github.com/5ury4pr454th/building-scene-classification)
+
+[Titanic Survival Prediction (Oldest)](https://github.com/5ury4pr454th/titanic-survival-prediction)
+
+
+### others
 
 [Computer Vision - Assignments and Solutions](https://github.com/5ury4pr454th/computer-vision-notebooks)
 
@@ -12,26 +25,10 @@
 
 [Foundations of Modern Machine Learning - Main](https://github.com/5ury4pr454th/fmml2021)
 
-[Control Systems - VTOL](https://github.com/5ury4pr454th/vtol)
-
-[Control Systems - VTOL v2](https://github.com/5ury4pr454th/vtol-v2)
-
-[Data Science and Machine Learning - Final Project](https://github.com/5ury4pr454th/dsml-project)
-
-[EECS Labwork - Final Project](https://github.com/5ury4pr454th/Semantic-Detection-with-GloVe)
-
 [Reinforcment Learning - Assignments and Solutions](https://github.com/5ury4pr454th/reinforcement-learning-notebooks)
 
-### on hiatus
-[Income Prediction](https://github.com/5ury4pr454th/50k-salary-predict)
-
-### ongoing
-[Building Scene Classification using Street View Imagery](https://github.com/5ury4pr454th/building-scene-classification)
-### self-learn
 [List of All DL projects](https://github.com/5ury4pr454th/my-dl-notebooks)
 
 [Random Old Notebooks](https://github.com/5ury4pr454th/old_notebooks)
-
-[Titanic Survival Prediction (Oldest)](https://github.com/5ury4pr454th/titanic-survival-prediction)
 
 [Code Snippets for CV/DL](https://github.com/5ury4pr454th/useful-codes)
