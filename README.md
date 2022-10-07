@@ -12,6 +12,6 @@
 
 [Titanic Survival Prediction with custom sklearn pipeline](https://github.com/5ury4pr454th/titanic-survival-prediction)
 
-[Avoiding Negative Side Effects in Reinforcement Learning (paper replicaiton and more)](https://github.com/5ury4pr454th/reinforcement-learning-notebooks)
+[Avoiding Negative Side Effects in Reinforcement Learning (paper replication and more)](https://github.com/5ury4pr454th/reinforcement-learning-notebooks)
 
 [Auto Hire](https://github.com/5ury4pr454th/FMML-2021-main)
