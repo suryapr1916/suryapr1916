@@ -1,20 +1,20 @@
 # suryaprasath
 
-[Visualizing Semantic Relationships between words](https://github.com/5ury4pr454th/Semantic-Detection-with-GloVe)
+[Visualizing Semantic Relationships between words](https://github.com/suryapr1916/Semantic-Detection-with-GloVe)
 
-[Classifiying building instances from street scenes](https://github.com/5ury4pr454th/building-scene-classification)
+[Classifiying building instances from street scenes](https://github.com/suryapr1916/building-scene-classification)
 
-[Programming a vertical lift-off and landing (VTOL) vehicle (PID)](https://github.com/5ury4pr454th/vtol)
+[Programming a vertical lift-off and landing (VTOL) vehicle (PID)](https://github.com/suryapr1916/vtol)
 
-[Programming a vertical lift-off and landing (VTOL) vehicle (Obs)](https://github.com/5ury4pr454th/vtol-v2)
+[Programming a vertical lift-off and landing (VTOL) vehicle (Obs)](https://github.com/suryapr1916/vtol-v2)
 
-[Exploring features for income prediction and their relative importance](https://github.com/5ury4pr454th/dsml-project)
+[Exploring features for income prediction and their relative importance](https://github.com/suryapr1916/dsml-project)
 
-[Who survived from Titanic?](https://github.com/5ury4pr454th/titanic-survival-prediction)
+[Who survived from Titanic?](https://github.com/suryapr1916/titanic-survival-prediction)
 
-[Preventing robots from causing collateral damage](https://github.com/5ury4pr454th/reinforcement-learning-notebooks)
+[Preventing robots from causing collateral damage](https://github.com/suryapr1916/reinforcement-learning-notebooks)
 
-[Auto Hiring from Resumes](https://github.com/5ury4pr454th/FMML-2021-main)
+[Auto Hiring from Resumes](https://github.com/suryapr1916/FMML-2021-main)
 
 Determining commercial setups from text alone
 
