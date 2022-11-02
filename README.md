@@ -12,6 +12,6 @@
 
 [Who survived from Titanic?](https://github.com/5ury4pr454th/titanic-survival-prediction)
 
-[Preventing robots from causing damage](https://github.com/5ury4pr454th/reinforcement-learning-notebooks)
+[Preventing robots from causing collateral damage](https://github.com/5ury4pr454th/reinforcement-learning-notebooks)
 
 [Auto Hiring from Resumes](https://github.com/5ury4pr454th/FMML-2021-main)
