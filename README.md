@@ -10,8 +10,6 @@
 
 [exploring features for income prediction and their relative importance](https://github.com/suryapr1916/dsml-project)
 
-[who survived from titanic?](https://github.com/suryapr1916/titanic-survival-prediction)
-
 [preventing robots from causing collateral damage](https://github.com/suryapr1916/reinforcement-learning-notebooks)
 
 [Auto hiring from resumes](https://github.com/suryapr1916/FMML-2021-main)
