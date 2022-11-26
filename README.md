@@ -8,7 +8,7 @@
 
 [programming a vertical lift-off and landing (VTOL) vehicle (Obs)](https://github.com/suryapr1916/vtol-v2)
 
-[exploring features for income prediction and their relative importance](https://github.com/suryapr1916/dsml-project)
+[exploring feature spaces for income prediction and their relative importance](https://github.com/suryapr1916/dsml-project)
 
 [preventing robots from causing collateral damage](https://github.com/suryapr1916/reinforcement-learning-notebooks)
 
@@ -23,5 +23,3 @@ freestyle driving in CARLA sandbox
 recognizing house numbers with models trained in MNIST (and improving their predictions)
 
 predicting amazon products from unlabelled images using labelled webcam images
-
-how good are basic ML algorithms for the sentiment analysis task?
