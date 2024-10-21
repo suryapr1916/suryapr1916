@@ -1,7 +1,8 @@
 i do cv stuff.
 
 
-ancient projects:
+----------
+ancient projects
 
 [semantic words viz](https://github.com/suryapr1916/Semantic-Detection-with-GloVe)
 
