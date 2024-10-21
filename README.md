@@ -1,25 +1,14 @@
-# suryaprasath
+i do cv stuff.
+---
+todo
 
-[visualizing semantic relationships between words](https://github.com/suryapr1916/Semantic-Detection-with-GloVe)
-
-[classifiying building instances from street scenes](https://github.com/suryapr1916/building-scene-classification)
-
-[programming a vertical lift-off and landing (VTOL) vehicle (PID)](https://github.com/suryapr1916/vtol)
-
-[programming a vertical lift-off and landing (VTOL) vehicle (Obs)](https://github.com/suryapr1916/vtol-v2)
-
-[exploring feature spaces for income prediction and their relative importance](https://github.com/suryapr1916/dsml-project)
-
-[preventing robots from causing collateral damage](https://github.com/suryapr1916/reinforcement-learning-notebooks)
-
-[Auto hiring from resumes](https://github.com/suryapr1916/FMML-2021-main)
-
-determining commercial setups from text alone
-
-using neighborhood context to understand street scenes better
-
-freestyle driving in CARLA sandbox
-
-recognizing house numbers with models trained in MNIST (and improving their predictions)
-
-predicting amazon products from unlabelled images using labelled webcam images
+---
+ancient projects:
+[semantic words viz](https://github.com/suryapr1916/Semantic-Detection-with-GloVe)
+[classifiying buildings from streets](https://github.com/suryapr1916/building-scene-classification)
+[vtolv1](https://github.com/suryapr1916/vtol)
+[vtolv2](https://github.com/suryapr1916/vtol-v2)
+[shap for income prediction](https://github.com/suryapr1916/dsml-project)
+[low collateral dmg robots](https://github.com/suryapr1916/reinforcement-learning-notebooks)
+[simple auto-hiring bot](https://github.com/suryapr1916/FMML-2021-main)
+---
