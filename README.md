@@ -1,8 +1,5 @@
 i do cv stuff.
 
-still updating...
-
----
 
 ancient projects:
 
@@ -18,6 +15,4 @@ ancient projects:
 
 [low collateral dmg robots](https://github.com/suryapr1916/reinforcement-learning-notebooks)
 
-[simple auto-hiring bot](https://github.com/suryapr1916/FMML-2021-main)
-
----
+[simple auto-hiring](https://github.com/suryapr1916/FMML-2021-main)
